@@ -4,9 +4,9 @@ https://code.visualstudio.com/download
 
 ## XAMPP installation
 
-- Download XAMPP
-- Test connection
-- Create project
+1. Download XAMPP
+2. Test connection for localhost
+3. Create new project
 
 ### Download XAMPP:
 
@@ -22,8 +22,11 @@ http://localhost
 
 ### Create project
 
-- Open VS Code editor
-- Go to htdocs dir in XAMPP folder
-- Create new folder
-- Create PHP file index.php
-- Test: http://localhost/folder/index.php
+1. Open VS Code editor
+2. Go to htdocs in XAMPP folder
+3. Create new project folder
+4. Create first PHP file - index.php
+5. Test: http://localhost/folder/index.php
+
+## MySQL Workbench installation
+
